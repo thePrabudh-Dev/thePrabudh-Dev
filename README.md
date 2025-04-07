@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Prabudh!
 
 🔭 **Current Projects**  
-- **Mental Health Chatbot**: Multilingual NLP with Flask, NLTK, and Hugging Face Transformers  
-- **Music Recommendation Chatbot**: Sentiment analysis for tailored music suggestions  
+- **AI/Agentic AI**: Multilingual NLP with Flask, NLTK, and Hugging Face Transformers  
+- **Inter-Reasonable Chatbot**: Sentiment analysis for tailored music suggestions  
 - **Web Development**: Various projects to sharpen frontend and backend skills  
 
 🌱 **Currently Learning**  
-- Advanced frontend & backend development  
+- Advanced frontend & backend development[MERN] 
 - DevOps for seamless deployment  
 
 👯 **Open to Collaborate on**  
-- AI/ML projects in Python  
+- AI/ML projects in Python+  
 - Web development projects  
 
 💬 **Ask me about**  
@@ -80,12 +80,12 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theprabudh-Dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theprabudh-Dev&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theprabudh-Dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=theprabudh-DEV&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=theprabudh-DEV&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theprabudh-DEV&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theprabudh-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
