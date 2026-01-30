@@ -19,7 +19,7 @@
 
 📫 **Connect with me**  
 - [*LinkedIn: in/Prabudh Pandey*](https://www.linkedin.com/in/prabudhpandey/)
-- [*Email: p.prabudh9@outlook.com*](mailto:p.prabudh9@outlook.com)
+- [*Email: p.prabudh9@outlook.com*](mailto:p.prabudh9@gmail.com)
 
 ⚡ **Fun Fact**  
 “I’d sprint through life – Agile style! Always iterating and improving.”
