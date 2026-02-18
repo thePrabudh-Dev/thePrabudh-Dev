@@ -12,7 +12,8 @@ Community moderator & open source advocate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabudhpandey/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p.prabudh9@gmail.com)
-[![Discord](https://img.shields.io/badge/Pearl_Village-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gcba4gb6kz)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/761459233392427018)
+[![Discord Server](https://img.shields.io/badge/Pearl_Village-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gcba4gb6kz)
 
 </div>
 
@@ -20,7 +21,16 @@ Community moderator & open source advocate.
 
 ### 🔭 What I'm Building
 
-> *Shipping AI from prototype to production — not just fine-tuning prompts.*
+> *Engineering AI systems that ship and scale — from concept to production.*
+
+<div align="center">
+
+[![PearlOS](https://img.shields.io/badge/PearlOS-AI%20OS-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiaExperience/PearlOS)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-Autonomous%20Agent-00D9FF?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Nia Universal](https://img.shields.io/badge/Nia%20Universal-Gen%20AI-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](#)
+[![MCP Servers](https://img.shields.io/badge/MCP%20Servers-Protocol-10B981?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
 
 - **[PearlOS](https://github.com/NiaExperience/PearlOS)**  
   An AI-native operating system with voice-first interaction, memory systems, and distributed architecture. Built with TypeScript, Python, and intelligent agent orchestration.  
@@ -33,7 +43,7 @@ Community moderator & open source advocate.
   Collaborated on building scalable AI-driven applications integrating Gen AI, LLM pipelines, and containerized microservice deployments.
 
 - **MCP Servers**  
-  Actively building Model Context Protocol servers for extending AI agent capabilities with custom tool integrations.
+  Actively building Model Context Protocol servers for extending AI agent capabilities with custom tool integrations locally.
 
 ---
 
