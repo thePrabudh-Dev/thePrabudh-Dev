@@ -32,18 +32,14 @@ Community moderator & open source advocate.
 
 </div>
 
-- **[PearlOS](https://github.com/NiaExperience/PearlOS)**  
-  An AI-native operating system with voice-first interaction, memory systems, and distributed architecture. Built with TypeScript, Python, and intelligent agent orchestration.  
+- **[PearlOS](https://github.com/NiaExperience/PearlOS)** An AI-native operating system with voice-first interaction, memory systems, and distributed architecture. Built with TypeScript, Python, and intelligent agent orchestration.  
   *Role: Core Contributor*
 
-- **OpenClaw Integration**  
-  Integrated and deployed OpenClaw, an open-source autonomous AI agent, on VPS infrastructure. Configured it to work seamlessly with messaging platforms (Discord, Telegram) for always-on automation and bot interactions.
+- **OpenClaw Integration** Integrated and deployed OpenClaw, an open-source autonomous AI agent, on VPS infrastructure. Configured it to work seamlessly with messaging platforms (Discord, Telegram) for always-on automation and bot interactions.
 
-- **Nia Universal**  
-  Collaborated on building scalable AI-driven applications integrating Gen AI, LLM pipelines, and containerized microservice deployments.
+- **Nia Universal** Collaborated on building scalable AI-driven applications integrating Gen AI, LLM pipelines, and containerized microservice deployments.
 
-- **MCP Servers**  
-  Actively building Model Context Protocol servers for extending AI agent capabilities with custom tool integrations locally.
+- **MCP Servers** Actively building Model Context Protocol servers for extending AI agent capabilities with custom tool integrations locally.
 
 ---
 
@@ -142,21 +138,19 @@ Community moderator & open source advocate.
 
 ### 🏅 Certifications
 
-| | Certification | Issuer |
-|:--:|---|---|
-| 🤖 | **Introduction to MCP** | Anthropic |
-| 📋 | **Foundations of Project Management** | Google (Coursera) |
+- **[Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/YUN39MYZQASU)** — Google (Coursera)
+- **[Introduction to MCP](https://verify.skilljar.com/c/vqnen4dqxmkv)** — Anthropic
 
 <details>
-<summary>📜 <b>+ More Certifications</b></summary>
+<summary><b> View More Certifications</b></summary>
 <br>
 
-- Software Development Engineer — **AWS**
-- Artificial Intelligence — **SkillUp**
-- Certified for Python 3 — **University of Michigan**
-- Introduction to DevOps — **IBM**
-- Introduction to Machine Learning — **AWS**
-- Cloud Computing 101 — **AWS**
+- **[Software Development Engineer](https://drive.google.com/file/d/1WG3kADwtl_oxWMj3T-4j0Aa_I_xb-DjO/view)** — AWS
+- **[Artificial Intelligence](https://drive.google.com/file/d/1CMockWSpLAdbjoiki75zx85VKlsQ4WJx/view)** — SkillUp
+- **[Certified for Python 3](https://www.coursera.org/account/accomplishments/verify/HV8Y2FYSKWNV?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)** — University of Michigan
+- **[Introduction to DevOps](https://www.coursera.org/account/accomplishments/verify/N5WFR8VVPDAK)** — IBM
+- **[Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/verify/6GA6Z9IA5WG0)** — AWS
+- **[Cloud Computing 101](https://drive.google.com/file/d/1JEVc-YVqal8nNq_jKJpgINAny5w-OYsU/view)** — AWS
 
 </details>
 
@@ -176,15 +170,6 @@ Community moderator & open source advocate.
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=theprabudh-DEV&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
 
 ---
 
