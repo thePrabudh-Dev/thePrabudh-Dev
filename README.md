@@ -58,6 +58,7 @@ Community moderator & open source advocate.
 
 ### 🌱 Currently Learning
 
+- ✅ **Swarm AI** — Usage of multiple AI's with the retrospec of the main AI.
 - ✅ **Intermediate DevOps** — CI/CD pipelines, K8s orchestration, IaC
 - ✅ **Local LLM Infra** — Running & optimizing local models (Ollama, LM Studio)
 - 🔄 **Agentic AI Systems** — Swarm architectures, AI wrappers, enterprise LLM integration *(in progress)*
@@ -166,14 +167,14 @@ Community moderator & open source advocate.
 
 <br/>
 
-<img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=theprabudh-DEV&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=theprabudh-DEV&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
 
 ---
 
-### ✍️ Random Dev Quote
+### ☕ Today's Tech Wisdom
 
 <div align="center">
 
@@ -185,7 +186,7 @@ Community moderator & open source advocate.
 
 <div align="center">
 
-⚡ **Fun Fact**: *"I'd sprint through life — Agile style! Always iterating, refactoring, and improving."*
+⚡ **Fun Fact**: *"I spend my free time building custom AI bots and finding new ways to automate the boring stuff."*
 
 ---
 
