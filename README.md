@@ -161,10 +161,6 @@ Community moderator & open source advocate.
 
 <div align="center">
 
-<img alt="GitHub Stats" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theprabudh-DEV&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img alt="Top Languages" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theprabudh-DEV&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&include_all_commits=true&count_private=true"/>
-
 <br/>
 
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=theprabudh-DEV&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
